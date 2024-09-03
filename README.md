@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <a href="#">
-  <img align="center" src="https://count.getloli.com/get/@txz-169?theme=gelbooru">
+  <img align="center" src="https://count.getloli.com/get/@txz-169?theme=rule34">
 </a>
 <!---
 txz-169/txz-169 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
