@@ -6,6 +6,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<a href="#">
+  <img align="center" src="https://count.getloli.com/get/@txz-169?theme=gelbooru">
+</a>
 <!---
 txz-169/txz-169 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
